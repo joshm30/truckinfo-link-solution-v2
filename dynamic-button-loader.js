@@ -1,4 +1,4 @@
-fetch('/links.json')
+fetch('https://truckinfo-link-solution-v2.vercel.app/links.json')
   .then(res => res.json())
   .then(data => {
     data.forEach(item => {
