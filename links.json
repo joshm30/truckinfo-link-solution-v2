@@ -18,5 +18,15 @@
     "DataGATrack": "button-click,table,biberk",
     "Target": "_blank",
     "Rel": "nofollow noopener noreferrer"
+  },
+  {
+    "Key": "progressive",
+    "ID": "btn-progressive-quote",
+    "Href": "/angle-insurance-quote?kw=progressive",
+    "Text": "Get Quote",
+    "Class": "button cta slim web-lead w-button",
+    "DataGATrack": "button-click,table,progressive",
+    "Target": "_blank",
+    "Rel": "nofollow noopener noreferrer"
   }
 ]
