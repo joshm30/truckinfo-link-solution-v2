@@ -1,32 +1,33 @@
 // links.v2025-08-05.js  (version by date or Git commit hash)
 window.LINK_DATA = [
+  // https://www.truckinfo.net/guide/hot-shot-insurance
   {
-    "Key": "hartford",
-    "ID": "btn-hartford-quote",
-    "Href": "/angle-insurance-quote?kw=hartford",
+    "Key": "hot-shot-hartford-table-position-1",
+    "ID": "AI-hartford-table",
+    "Href": "/angle-insurance-quote-hot-shot?kw=company-table-hartford",
+    "DataGATrack": "button-click,table,northland",
     "Text": "Get Quote",
     "Class": "button cta slim web-lead w-button",
-    "DataGATrack": "button-click,table,hartford",
     "Target": "_blank",
     "Rel": "nofollow noopener noreferrer"
   },
   {
-    "Key": "biberk",
-    "ID": "btn-biberk-quote",
-    "Href": "/angle-insurance-quote?kw=biberk",
+    "Key": "hot-shot-biberk-table-position-2",
+    "ID": "CINET-biberk-table",
+    "Href": "https://tivly.com/truckinfo-biberk?sr=hedgebb&kw1=TruckInfo-hot-shot-insurance&kw2=company-table-biberk",
+    "DataGATrack": "button-click,table,OOIDA",
     "Text": "Get Quote",
     "Class": "button cta slim web-lead w-button",
-    "DataGATrack": "button-click,table,biberk",
     "Target": "_blank",
     "Rel": "nofollow noopener noreferrer"
   },
   {
-    "Key": "progressive",
+    "Key": "hot-shot-progressive-table-position-3",
     "ID": "btn-progressive-quote",
     "Href": "/angle-insurance-quote?kw=progressive",
+    "DataGATrack": "button-click,table,progressive",
     "Text": "Get Quote",
     "Class": "button cta slim web-lead w-button",
-    "DataGATrack": "button-click,table,progressive",
     "Target": "_blank",
     "Rel": "nofollow noopener noreferrer"
   }
