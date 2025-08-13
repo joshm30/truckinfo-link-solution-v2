@@ -5,7 +5,7 @@ window.LINK_DATA = [
   // TOP TABLE
   // Example: <a data-insurance-link="hot-shot-hartford-table-position-1" class="button w-button">Get Quote</a>
   {
-    "Key": "hot-shot-hartford-table-position-1",
+    "Key": "hot-shot-hartford-table-position-11",
     "ID": "CINET-hartford-table",
     "Href": "https://tivly.com/truckinfo-the-hartford-web?sr=hedgeh&kw1=TruckInfo-hot-shot-insurance&kw2=company-table-hartford",
     "DataGATrack": "button-click,table,northland"
