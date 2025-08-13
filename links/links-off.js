@@ -1,4 +1,5 @@
-// Example: <a data-insurance-link="hot-shot-hartford-table-position-1" class="button w-button">Get Quote</a>
+// OFF: All angle links are off.
+
 window.LINK_DATA = [
   // HOTSHOT INSURANCE
   // https://www.truckinfo.net/guide/hot-shot-insurance
@@ -42,3 +43,5 @@ window.LINK_DATA = [
     "DataGATrack": "button-click,table,progressive"
   },
 ];
+
+// Example: <a data-insurance-link="hot-shot-hartford-table-position-1" class="button w-button">Get Quote</a>

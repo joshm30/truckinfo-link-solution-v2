@@ -1,4 +1,5 @@
-// Example: <a data-insurance-link="hot-shot-hartford-table-position-1" class="button w-button">Get Quote</a>
+// MIXED
+
 window.LINK_DATA = [
   // HOTSHOT INSURANCE
   // https://www.truckinfo.net/guide/hot-shot-insurance
@@ -25,20 +26,22 @@ window.LINK_DATA = [
   // BOTTOM TABLE ie. hot-shot-hartford-table-bottom-position-1
   {
     "Key": "hot-shot-hartford-table-bottom-position-1",
-    "ID": "AI-hartford-table-bottom",
+    "ID": "AI-hartford-table",
     "Href": "/angle-insurance-quote-hot-shot?kw=company-table-hartford",
     "DataGATrack": "button-click,table,northland"
   },
   {
     "Key": "hot-shot-biberk-table-bottom-position-2",
-    "ID": "CINET-biberk-table-bottom",
+    "ID": "CINET-biberk-table",
     "Href": "https://tivly.com/truckinfo-biberk?sr=hedgebb&kw1=TruckInfo-hot-shot-insurance&kw2=company-table-biberk",
     "DataGATrack": "button-click,table,OOIDA"
   },
   {
     "Key": "hot-shot-progressive-table-bottom-position-3",
-    "ID": "AI-progressive-table-bottom",
+    "ID": "AI-progressive-table",
     "Href": "/angle-insurance-quote-hot-shot?kw=company-table-progressive",
     "DataGATrack": "button-click,table,northland"
   },
 ];
+
+// Example: <a data-insurance-link="hot-shot-hartford-table-position-1" class="button w-button">Get Quote</a>
