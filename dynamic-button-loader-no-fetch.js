@@ -32,9 +32,15 @@
       if (item.Href) btn.href = item.Href;
       if (item.DataGATrack) btn.setAttribute('data-gatrack', item.DataGATrack);
 
+      // Apply custom class if present, otherwise use default
+      if (item.Class) {
+        btn.className = item.Class;
+      } else {
+        btn.className = 'button cta slim web-lead w-button';
+      }
+
       // Hardcoded defaults (your choice)
       btn.textContent = 'Get Quote';
-      btn.className = 'button cta slim web-lead w-button';
       btn.rel = 'nofollow noopener noreferrer';
       btn.target = '_blank';
     });
