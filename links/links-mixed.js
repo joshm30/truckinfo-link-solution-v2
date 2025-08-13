@@ -1,13 +1,13 @@
-// links.v2025-08-05.js  (version by date or Git commit hash)
+// Example: <a data-insurance-link="hot-shot-hartford-table-position-1" class="button w-button">Get Quote</a>
 window.LINK_DATA = [
   // HOTSHOT INSURANCE
   // https://www.truckinfo.net/guide/hot-shot-insurance
   // TOP TABLE
-  // Example: <a data-insurance-link="hot-shot-hartford-table-position-1" class="button w-button">Get Quote</a>
+  
   {
     "Key": "hot-shot-hartford-table-position-1",
-    "ID": "CINET-hartford-table",
-    "Href": "https://tivly.com/truckinfo-the-hartford-web?sr=hedgeh&kw1=TruckInfo-hot-shot-insurance&kw2=company-table-hartford",
+    "ID": "AI-hartford-table",
+    "Href": "/angle-insurance-quote-hot-shot?kw=company-table-hartford",
     "DataGATrack": "button-click,table,northland"
   },
   {
@@ -18,11 +18,11 @@ window.LINK_DATA = [
   },
   {
     "Key": "hot-shot-progressive-table-position-3",
-    "ID": "btn-progressive-quote",
-    "Href": "/angle-insurance-quote?kw=progressive",
-    "DataGATrack": "button-click,table,progressive"
+    "ID": "AI-progressive-table",
+    "Href": "/angle-insurance-quote-hot-shot?kw=company-table-progressive",
+    "DataGATrack": "button-click,table,northland"
   },
-  // BOTTOM TABLE
+  // BOTTOM TABLE ie. hot-shot-hartford-table-bottom-position-1
   {
     "Key": "hot-shot-hartford-table-bottom-position-1",
     "ID": "AI-hartford-table",
@@ -37,8 +37,8 @@ window.LINK_DATA = [
   },
   {
     "Key": "hot-shot-progressive-table-bottom-position-3",
-    "ID": "btn-progressive-quote",
-    "Href": "/angle-insurance-quote?kw=progressive",
-    "DataGATrack": "button-click,table,progressive"
+    "ID": "AI-progressive-table",
+    "Href": "/angle-insurance-quote-hot-shot?kw=company-table-progressive",
+    "DataGATrack": "button-click,table,northland"
   },
 ];
