@@ -8,7 +8,7 @@ window.LINK_DATA = [
   {
     "Key": "hot-shot-hartford-table-position-1",
     "ID": "AI-hartford-table",
-    "Href": "/angle-insurance-quote-hot-shot?kw=company-table-hartford",
+    "Href": "/insurance-quote-main?kw=hotshot&kw1=company-table-hartford&kw2=position-top",
     "DataGATrack": "button-click,table,northland"
   },
   {
@@ -20,14 +20,14 @@ window.LINK_DATA = [
   {
     "Key": "hot-shot-progressive-table-position-3",
     "ID": "AI-progressive-table",
-    "Href": "/angle-insurance-quote-hot-shot?kw=company-table-progressive",
+    "Href": "/insurance-quote-main?kw=hotshot&kw1=company-table-progressive&kw2=position-top",
     "DataGATrack": "button-click,table,northland"
   },
   // BOTTOM TABLE ie. hot-shot-hartford-table-bottom-position-1
   {
     "Key": "hot-shot-hartford-table-bottom-position-1",
     "ID": "AI-hartford-table",
-    "Href": "/angle-insurance-quote-hot-shot?kw=company-table-hartford",
+    "Href": "/insurance-quote-main?kw=hotshot&kw1=company-table-hartford&kw2=position-bottom",
     "DataGATrack": "button-click,table,northland"
   },
   {
@@ -39,7 +39,7 @@ window.LINK_DATA = [
   {
     "Key": "hot-shot-progressive-table-bottom-position-3",
     "ID": "AI-progressive-table",
-    "Href": "/angle-insurance-quote-hot-shot?kw=company-table-progressive",
+    "Href": "/insurance-quote-main?kw=hotshot&kw1=company-table-progressive&kw2=position-bottom",
     "DataGATrack": "button-click,table,northland"
   },
 
@@ -49,7 +49,7 @@ window.LINK_DATA = [
   {
     "Key": "hot-shot-hartford-table-position-1-test",
     "ID": "AI-hartford-table",
-    "Href": "/angle-insurance-quote-hot-shot?kw=company-table-hartford",
+    "Href": "/insurance-quote-main?kw=hotshot&kw1=company-table-hartford&kw2=position-top",
     "DataGATrack": "button-click,table,northland",
     "Class": "button cta w-button test-class"
   },
