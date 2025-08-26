@@ -49,19 +49,19 @@ window.LINK_DATA = [
   {
     "Key": "commercial-truck-insurance-progressive-table-position-1",
     "ID": "AI-progressive-table",
-    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-table-progressive&kw2=position-top",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-table-progressive&kw2=position-1",
     "DataGATrack": "button-click,table,northland"
   },
   {
     "Key": "commercial-truck-insurance-biberk-table-position-2",
-    "ID": "CINET-biberk-table",
-    "Href": "https://tivly.com/truckinfo-biberk?sr=hedgebb&kw1=TruckInfo-commercial-truck-insurance&kw2=company-table-biberk",
+    "ID": "AI-biberk-table",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-table-biberk&kw2=position-2",
     "DataGATrack": "button-click,table,northland"
   },
   {
     "Key": "commercial-truck-insurance-hartford-table-position-3",
-    "ID": "CINET-hartford-table",
-    "Href": "https://tivly.com/truckinfo-the-hartford-web?sr=hedgeh&kw1=TruckInfo-commercial-truck-insurance&kw2=company-table-hartford",
+    "ID": "AI-hartford-table",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-table-hartford&kw2=position-3",
     "DataGATrack": "button-click,table,northland"
   },
   // BOTTOM REVIEW TABLE
