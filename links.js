@@ -89,35 +89,35 @@ window.LINK_DATA = [
   {
     "Key": "commercial-truck-insurance-ODD-review-position-4",
     "ID": "ODD-AI-review",
-    "Href": "/angle-insurance-quote?kw=company-table-progressive",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-review-ODD&kw2=position-4",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
   {
     "Key": "commercial-truck-insurance-great-west-review-position-5",
     "ID": "great-west-AI-review",
-    "Href": "/angle-insurance-quote?kw=company-table-progressive",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-review-great-west&kw2=position-5",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
   {
     "Key": "commercial-truck-insurance-northland-review-position-6",
     "ID": "northland-AI-review",
-    "Href": "/angle-insurance-quote?kw=company-table-progressive",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-review-northland&kw2=position-6",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
   {
     "Key": "commercial-truck-insurance-sentry-review-position-7",
     "ID": "sentry-AI-review",
-    "Href": "/angle-insurance-quote?kw=company-table-progressive",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-review-sentry&kw2=position-7",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
   {
     "Key": "commercial-truck-insurance-geico-review-position-8",
     "ID": "geico-AI-review",
-    "Href": "/angle-insurance-quote?kw=company-table-progressive",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-review-geico&kw2=position-8",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
@@ -131,7 +131,7 @@ window.LINK_DATA = [
   {
     "Key": "commercial-truck-insurance-state-farm-review-position-10",
     "ID": "state-farm-AI-review",
-    "Href": "/angle-insurance-quote?kw=company-table-progressive",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-review-state-farm&kw2=position-10",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
