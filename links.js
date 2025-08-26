@@ -101,42 +101,42 @@ window.LINK_DATA = [
     "Class": "button cta w-button"
   },
   {
-    "Key": "commercial-truck-insurance-northland-review-position-5",
+    "Key": "commercial-truck-insurance-northland-review-position-6",
     "ID": "northland-AI-review",
     "Href": "/angle-insurance-quote?kw=company-table-progressive",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
   {
-    "Key": "commercial-truck-insurance-sentry-review-position-6",
+    "Key": "commercial-truck-insurance-sentry-review-position-7",
     "ID": "sentry-AI-review",
     "Href": "/angle-insurance-quote?kw=company-table-progressive",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
   {
-    "Key": "commercial-truck-insurance-geico-review-position-7",
+    "Key": "commercial-truck-insurance-geico-review-position-8",
     "ID": "geico-AI-review",
     "Href": "/angle-insurance-quote?kw=company-table-progressive",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
   {
-    "Key": "commercial-truck-insurance-NITIC-review-position-8",
+    "Key": "commercial-truck-insurance-NITIC-review-position-9",
     "ID": "CINET-NITIC-review",
     "Href": "https://tivly.com/truckinfo-nitc?sr=hedge&kw1=TruckInfo-commercial-truck-insurance&kw2=company-review-NITIC",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
   {
-    "Key": "commercial-truck-insurance-state-farm-review-position-9",
+    "Key": "commercial-truck-insurance-state-farm-review-position-10",
     "ID": "state-farm-AI-review",
     "Href": "/angle-insurance-quote?kw=company-table-progressive",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
   {
-    "Key": "commercial-truck-insurance-biberk-review-position-10",
+    "Key": "commercial-truck-insurance-biberk-review-position-11",
     "ID": "CINET-biberk-review",
     "Href": "https://tivly.com/truckinfo-biberk?sr=hedgebb&kw1=TruckInfo-commercial-truck-insurance&kw2=company-review-biberk",
     "DataGATrack": "button-click,company-review,progressive",
