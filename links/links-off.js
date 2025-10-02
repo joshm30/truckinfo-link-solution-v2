@@ -142,6 +142,46 @@ window.LINK_DATA = [
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
+  // *** Car Hauler Insurance ***
+  // https://www.truckinfo.net/guide/car-hauler-insurance
+  // TOP TABLE
+  {
+    "Key": "car-hauler-progressive-table-position-1",
+    "ID": "progressive-table",
+    "Href": "https://www.progressivecommercial.com/lp/commercial-truck-insurance/?phonenumber=8552803955&code=8483300001&utm_medium=referral&utm_source=truckinfo&kw=table",
+    "DataGATrack": "button-click,table,progressive"
+  },
+  {
+    "Key": "car-hauler-biberk-table-position-2",
+    "ID": "CINET-biberk-table",
+    "Href": "https://tivly.com/truckinfo-biberk?sr=hedgebb&kw1=TruckInfo-car-hauler&kw2=company-table-biberk",
+    "DataGATrack": "button-click,table,northland"
+  },
+  {
+    "Key": "car-hauler-hartford-table-position-3",
+    "ID": "CINET-hartford-table",
+    "Href": "https://tivly.com/truckinfo-the-hartford-web?sr=hedgeh&kw1=TruckInfo-car-hauler&kw2=company-table-hartford",
+    "DataGATrack": "button-click,table,national-interstate"
+  },
+  // BOTTOM Car Hauler TABLE
+  {
+    "Key": "car-hauler-progressive-table-bottom-position-1",
+    "ID": "progressive-table",
+    "Href": "https://www.progressivecommercial.com/lp/commercial-truck-insurance/?phonenumber=8552803955&code=8483300001&utm_medium=referral&utm_source=truckinfo&kw=table",
+    "DataGATrack": "button-click,table,progressive"
+  },
+  {
+    "Key": "car-hauler-biberk-table-bottom-position-2",
+    "ID": "CINET-biberk-table",
+    "Href": "https://tivly.com/truckinfo-biberk?sr=hedgebb&kw1=TruckInfo-car-hauler&kw2=company-table-biberk",
+    "DataGATrack": "button-click,table,northland"
+  },
+  {
+    "Key": "car-hauler-hartford-table-bottom-position-3",
+    "ID": "CINET-hartford-table",
+    "Href": "https://tivly.com/truckinfo-the-hartford-web?sr=hedgeh&kw1=TruckInfo-car-hauler&kw2=company-table-hartford",
+    "DataGATrack": "button-click,table,national-interstate"
+  },
 
   // TEST PAGE BUTTONS
   // https://www.truckinfo.net/commercial-truck-insurance-old

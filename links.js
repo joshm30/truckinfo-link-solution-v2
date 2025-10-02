@@ -142,7 +142,47 @@ window.LINK_DATA = [
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
-  
+  // *** Car Hauler Insurance ***
+  // https://www.truckinfo.net/guide/car-hauler-insurance
+  // TOP TABLE
+  {
+    "Key": "car-hauler-progressive-table-position-1",
+    "ID": "AI-progressive-table",
+    "ID": "AI-progressive-table",
+    "Href": "/insurance-quote-main?kw=car-hauler&kw1=company-table-progressive&kw2=position-top",
+    "DataGATrack": "button-click,table,northland"
+  },
+  {
+    "Key": "car-hauler-biberk-table-position-2",
+    "ID": "AI-biberk-table",
+    "Href": "/insurance-quote-main?kw=car-hauler&kw1=company-table-biberk&kw2=position-2",
+    "DataGATrack": "button-click,table,northland"
+  },
+  {
+    "Key": "car-hauler-hartford-table-position-3",
+    "ID": "AI-hartford-table",
+    "Href": "/insurance-quote-main?kw=car-hauler&kw1=company-table-hartford&kw2=position-3",
+    "DataGATrack": "button-click,table,national-interstate"
+  },
+  // BOTTOM Car Hauler TABLE
+  {
+    "Key": "car-hauler-progressive-table-bottom-position-1",
+    "ID": "AI-progressive-table",
+    "Href": "/insurance-quote-main?kw=car-hauler&kw1=company-table-progressive&kw2=position-bottom",
+    "DataGATrack": "button-click,table,progressive"
+  },
+  {
+    "Key": "car-hauler-biberk-table-bottom-position-2",
+    "ID": "AI-biberk-table",
+    "Href": "/insurance-quote-main?kw=car-hauler&kw1=company-table-biberk&kw2=position-bottom",
+    "DataGATrack": "button-click,table,northland"
+  },
+  {
+    "Key": "car-hauler-hartford-table-bottom-position-3",
+    "ID": "AI-hartford-table",
+    "Href": "/insurance-quote-main?kw=car-hauler&kw1=company-table-hartford&kw2=position-bottom",
+    "DataGATrack": "button-click,table,national-interstate"
+  },
   // *** TEST PAGE BUTTONS ***
   // https://www.truckinfo.net/commercial-truck-insurance-old
   {
