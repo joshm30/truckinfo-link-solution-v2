@@ -1,15 +1,15 @@
-// OFF: All angle links are off.
+// On (mostly)
 
 window.LINK_DATA = [
-  // HOTSHOT INSURANCE
+  // *** HOTSHOT INSURANCE ***
   // https://www.truckinfo.net/guide/hot-shot-insurance
   // TOP TABLE
   
   {
     "Key": "hot-shot-hartford-table-position-1",
-    "ID": "CINET-hartford-table",
-    "Href": "https://tivly.com/truckinfo-the-hartford-web?sr=hedgeh&kw1=TruckInfo-hot-shot-insurance&kw2=company-table-hartford",
-    "DataGATrack": "button-click,table,hartford"
+    "ID": "AI-hartford-table",
+    "Href": "/insurance-quote-main?kw=hotshot&kw1=company-table-hartford&kw2=position-top",
+    "DataGATrack": "button-click,table,northland"
   },
   {
     "Key": "hot-shot-biberk-table-position-2",
@@ -19,56 +19,56 @@ window.LINK_DATA = [
   },
   {
     "Key": "hot-shot-progressive-table-position-3",
-    "ID": "CINET-progressive-table",
-    "Href": "https://tivly.com/commercial-truck-insurance?sr=hedge&kw1=TruckInfo-hot-shot-insurance&kw2=company-table-Progressive",
-    "DataGATrack": "button-click,table,progressive"
+    "ID": "AI-progressive-table",
+    "Href": "/insurance-quote-main?kw=hotshot&kw1=company-table-progressive&kw2=position-top",
+    "DataGATrack": "button-click,table,northland"
   },
   // BOTTOM TABLE ie. hot-shot-hartford-table-bottom-position-1
   {
     "Key": "hot-shot-hartford-table-bottom-position-1",
-    "ID": "CINET-hartford-table-bottom",
-    "Href": "https://tivly.com/truckinfo-the-hartford-web?sr=hedgeh&kw1=TruckInfo-hot-shot-insurance&kw2=company-table-hartford-bottom",
-    "DataGATrack": "button-click,table,hartford"
+    "ID": "AI-hartford-table",
+    "Href": "/insurance-quote-main?kw=hotshot&kw1=company-table-hartford&kw2=position-bottom",
+    "DataGATrack": "button-click,table,northland"
   },
   {
     "Key": "hot-shot-biberk-table-bottom-position-2",
-    "ID": "CINET-biberk-table-bottom",
+    "ID": "CINET-biberk-table",
     "Href": "https://tivly.com/truckinfo-biberk?sr=hedgebb&kw1=TruckInfo-hot-shot-insurance&kw2=company-table-biberk",
     "DataGATrack": "button-click,table,OOIDA"
   },
   {
     "Key": "hot-shot-progressive-table-bottom-position-3",
-    "ID": "CINET-progressive-table-bottom",
-    "Href": "https://tivly.com/commercial-truck-insurance?sr=hedge&kw1=TruckInfo-hot-shot-insurance&kw2=company-table-Progressive",
-    "DataGATrack": "button-click,table,progressive"
+    "ID": "AI-progressive-table",
+    "Href": "/insurance-quote-main?kw=hotshot&kw1=company-table-progressive&kw2=position-bottom",
+    "DataGATrack": "button-click,table,northland"
   },
-
-  // Commercial Truck Insurance
+  
+  // *** Commercial Truck Insurance ***
   // https://www.truckinfo.net/guide/commercial-truck-insurance
   // TOP TABLE
   {
     "Key": "commercial-truck-insurance-progressive-table-position-1",
-    "ID": "progressive-table",
-    "Href": "https://www.progressivecommercial.com/lp/commercial-truck-insurance/?phonenumber=8552803955&code=8483300001&utm_medium=referral&utm_source=truckinfo&kw=table",
-    "DataGATrack": "button-click,table,progressive"
+    "ID": "AI-progressive-table",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-table-progressive&kw2=position-1",
+    "DataGATrack": "button-click,table,northland"
   },
   {
     "Key": "commercial-truck-insurance-biberk-table-position-2",
-    "ID": "CINET-biberk-table",
-    "Href": "https://tivly.com/truckinfo-biberk?sr=hedgebb&kw1=TruckInfo-commercial-truck-insurance&kw2=company-table-biberk",
+    "ID": "AI-biberk-table",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-table-biberk&kw2=position-2",
     "DataGATrack": "button-click,table,northland"
   },
   {
     "Key": "commercial-truck-insurance-hartford-table-position-3",
-    "ID": "CINET-hartford-table",
-    "Href": "https://tivly.com/truckinfo-the-hartford-web?sr=hedgeh&kw1=TruckInfo-commercial-truck-insurance&kw2=company-table-hartford",
+    "ID": "AI-hartford-table",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-table-hartford&kw2=position-3",
     "DataGATrack": "button-click,table,northland"
   },
   // BOTTOM REVIEW TABLE
   {
     "Key": "commercial-truck-insurance-progressive-review-position-1",
-    "ID": "progressive-review",
-    "Href": "https://www.progressivecommercial.com/lp/commercial-truck-insurance/?phonenumber=8552803955&code=8483300001&utm_medium=referral&utm_source=truckinfo&kw=review",
+    "ID": "AI-progressive-table",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-review-progressive&kw2=position-1",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
@@ -88,36 +88,36 @@ window.LINK_DATA = [
   },
   {
     "Key": "commercial-truck-insurance-ODD-review-position-4",
-    "ID": "ODD-review",
-    "Href": "https://www.owneroperatordirect.com/&kw=review",
+    "ID": "ODD-AI-review",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-review-ODD&kw2=position-4",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
   {
     "Key": "commercial-truck-insurance-great-west-review-position-5",
-    "ID": "great-west-review",
-    "Href": "https://www.gwccnet.com/&kw=review",
+    "ID": "great-west-AI-review",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-review-great-west&kw2=position-5",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
   {
     "Key": "commercial-truck-insurance-northland-review-position-6",
-    "ID": "northland-review",
-    "Href": "https://www.northlandins.com/&kw=review",
+    "ID": "northland-AI-review",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-review-northland&kw2=position-6",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
   {
     "Key": "commercial-truck-insurance-sentry-review-position-7",
-    "ID": "sentry-review",
-    "Href": "https://www.sentry.com/who-we-serve/trucking-insurance?kw=company-review-sentry",
+    "ID": "sentry-AI-review",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-review-sentry&kw2=position-7",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
   {
     "Key": "commercial-truck-insurance-geico-review-position-8",
-    "ID": "geico-review",
-    "Href": "https://www.geico.com/commercial-auto-insurance/?kw=company-review-geico",
+    "ID": "geico-AI-review",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-review-geico&kw2=position-8",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
@@ -130,8 +130,8 @@ window.LINK_DATA = [
   },
   {
     "Key": "commercial-truck-insurance-state-farm-review-position-10",
-    "ID": "state-farm-review",
-    "Href": "https://www.statefarm.com/small-business-solutions/insurance/business-owners-policies/distributor-insurance?kw=company-review-state-farm",
+    "ID": "state-farm-AI-review",
+    "Href": "/insurance-quote-main?kw=commercial-truck-insurance&kw1=company-review-state-farm&kw2=position-10",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
@@ -147,43 +147,43 @@ window.LINK_DATA = [
   // TOP TABLE
   {
     "Key": "car-hauler-progressive-table-position-1",
-    "ID": "progressive-table",
-    "Href": "https://www.progressivecommercial.com/lp/commercial-truck-insurance/?phonenumber=8552803955&code=8483300001&utm_medium=referral&utm_source=truckinfo&kw=table",
-    "DataGATrack": "button-click,table,progressive"
+    "ID": "AI-progressive-table",
+    "ID": "AI-progressive-table",
+    "Href": "/insurance-quote-main?kw=car-hauler&kw1=company-table-progressive&kw2=position-top",
+    "DataGATrack": "button-click,table,northland"
   },
   {
     "Key": "car-hauler-biberk-table-position-2",
-    "ID": "CINET-biberk-table",
-    "Href": "https://tivly.com/truckinfo-biberk?sr=hedgebb&kw1=TruckInfo-car-hauler&kw2=company-table-biberk",
+    "ID": "AI-biberk-table",
+    "Href": "/insurance-quote-main?kw=car-hauler&kw1=company-table-biberk&kw2=position-2",
     "DataGATrack": "button-click,table,northland"
   },
   {
     "Key": "car-hauler-hartford-table-position-3",
-    "ID": "CINET-hartford-table",
-    "Href": "https://tivly.com/truckinfo-the-hartford-web?sr=hedgeh&kw1=TruckInfo-car-hauler&kw2=company-table-hartford",
+    "ID": "AI-hartford-table",
+    "Href": "/insurance-quote-main?kw=car-hauler&kw1=company-table-hartford&kw2=position-3",
     "DataGATrack": "button-click,table,national-interstate"
   },
   // BOTTOM Car Hauler TABLE
   {
     "Key": "car-hauler-progressive-table-bottom-position-1",
-    "ID": "progressive-table",
-    "Href": "https://www.progressivecommercial.com/lp/commercial-truck-insurance/?phonenumber=8552803955&code=8483300001&utm_medium=referral&utm_source=truckinfo&kw=table",
+    "ID": "AI-progressive-table",
+    "Href": "/insurance-quote-main?kw=car-hauler&kw1=company-table-progressive&kw2=position-bottom",
     "DataGATrack": "button-click,table,progressive"
   },
   {
     "Key": "car-hauler-biberk-table-bottom-position-2",
-    "ID": "CINET-biberk-table",
-    "Href": "https://tivly.com/truckinfo-biberk?sr=hedgebb&kw1=TruckInfo-car-hauler&kw2=company-table-biberk",
+    "ID": "AI-biberk-table",
+    "Href": "/insurance-quote-main?kw=car-hauler&kw1=company-table-biberk&kw2=position-bottom",
     "DataGATrack": "button-click,table,northland"
   },
   {
     "Key": "car-hauler-hartford-table-bottom-position-3",
-    "ID": "CINET-hartford-table",
-    "Href": "https://tivly.com/truckinfo-the-hartford-web?sr=hedgeh&kw1=TruckInfo-car-hauler&kw2=company-table-hartford",
+    "ID": "AI-hartford-table",
+    "Href": "/insurance-quote-main?kw=car-hauler&kw1=company-table-hartford&kw2=position-bottom",
     "DataGATrack": "button-click,table,national-interstate"
   },
-
-  // TEST PAGE BUTTONS
+  // *** TEST PAGE BUTTONS ***
   // https://www.truckinfo.net/commercial-truck-insurance-old
   {
     "Key": "hot-shot-hartford-table-position-1-test",
