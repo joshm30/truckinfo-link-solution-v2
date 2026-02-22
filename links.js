@@ -20,7 +20,7 @@ window.LINK_DATA = [
   {
     "Key": "hot-shot-progressive-table-position-3",
     "ID": "CINET-progressive-table",
-    "Href": "https://tivly.com/commercial-truck-insurance?sr=hedge&kw1=TruckInfo-hot-shot-insurance&kw2=company-table-Progressive",
+    "Href": "https://www.progressivecommercial.com/lp/commercial-truck-insurance/?phonenumber=8552803955&code=8483300001&utm_medium=referral&utm_source=truckinfo&kw=table",
     "DataGATrack": "button-click,table,progressive"
   },
   // BOTTOM TABLE ie. hot-shot-hartford-table-bottom-position-1
@@ -39,7 +39,7 @@ window.LINK_DATA = [
   {
     "Key": "hot-shot-progressive-table-bottom-position-3",
     "ID": "CINET-progressive-table-bottom",
-    "Href": "https://tivly.com/commercial-truck-insurance?sr=hedge&kw1=TruckInfo-hot-shot-insurance&kw2=company-table-Progressive",
+    "Href": "https://www.progressivecommercial.com/lp/commercial-truck-insurance/?phonenumber=8552803955&code=8483300001&utm_medium=referral&utm_source=truckinfo&kw=table",
     "DataGATrack": "button-click,table,progressive"
   },
 
@@ -118,6 +118,7 @@ window.LINK_DATA = [
     "Key": "commercial-truck-insurance-geico-review-position-8",
     "ID": "geico-review",
     "Href": "https://www.geico.com/commercial-auto-insurance/?kw=company-review-geico",
+    // "Href": "https://tivly.com/truckinfo-geico?sr=hedgeg&kw1=TruckInfo-commercial-truck-insurance&kw2=company-review-geico",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
