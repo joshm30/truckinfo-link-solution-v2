@@ -14,7 +14,7 @@ window.LINK_DATA = [
   {
     "Key": "hot-shot-biberk-table-position-2",
     "ID": "CINET-biberk-table",
-    "Href": "https://tivly.com/truckinfo-biberk?sr=hedgebb&kw1=TruckInfo-hot-shot-insurance&kw2=company-table-biberk",
+    "Href": "https://tivly.com/?sr=hedgebb&kw1=TruckInfo-hot-shot-insurance&kw2=company-table-biberk",
     "DataGATrack": "button-click,table,OOIDA"
   },
   {
@@ -33,7 +33,7 @@ window.LINK_DATA = [
   {
     "Key": "hot-shot-biberk-table-bottom-position-2",
     "ID": "CINET-biberk-table",
-    "Href": "https://tivly.com/truckinfo-biberk?sr=hedgebb&kw1=TruckInfo-hot-shot-insurance&kw2=company-table-biberk",
+    "Href": "https://tivly.com/?sr=hedgebb&kw1=TruckInfo-hot-shot-insurance&kw2=company-table-biberk",
     "DataGATrack": "button-click,table,OOIDA"
   },
   {
@@ -55,13 +55,13 @@ window.LINK_DATA = [
   {
     "Key": "commercial-truck-insurance-biberk-table-position-2",
     "ID": "CINET-biberk-table",
-    "Href": "https://tivly.com/truckinfo-biberk?sr=hedgebb&kw1=TruckInfo-commercial-truck-insurance&kw2=company-table-biberk",
+    "Href": "https://tivly.com/?sr=hedgebb&kw1=TruckInfo-commercial-truck-insurance&kw2=company-table-biberk",
     "DataGATrack": "button-click,table,northland"
   },
   {
     "Key": "commercial-truck-insurance-hartford-table-position-3",
     "ID": "CINET-hartford-table",
-    "Href": "https://tivly.com/truckinfo-the-hartford-web?sr=hedgeh&kw1=TruckInfo-commercial-truck-insurance&kw2=company-table-hartford",
+    "Href": "https://tivly.com/?sr=hedgeh&kw1=TruckInfo-commercial-truck-insurance&kw2=company-table-hartford",
     "DataGATrack": "button-click,table,northland"
   },
   // BOTTOM REVIEW TABLE
@@ -75,14 +75,14 @@ window.LINK_DATA = [
   {
     "Key": "commercial-truck-insurance-OOIDA-review-position-2",
     "ID": "CINET-OOIDA-review",
-    "Href": "https://tivly.com/truckinfo-ooida?sr=hedge&kw1=TruckInfo-commercial-truck-insurance&kw2=company-review-OOIDA",
+    "Href": "https://tivly.com/?sr=hedge&kw1=TruckInfo-commercial-truck-insurance&kw2=company-review-OOIDA",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
   {
     "Key": "commercial-truck-insurance-hartford-review-position-3",
     "ID": "CINET-hartford-review",
-    "Href": "https://tivly.com/truckinfo-the-hartford-web?sr=hedgeh&kw1=TruckInfo-commercial-truck-insurance&kw2=company-review-hartford",
+    "Href": "https://tivly.com/?sr=hedgeh&kw1=TruckInfo-commercial-truck-insurance&kw2=company-review-hartford",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
@@ -124,7 +124,7 @@ window.LINK_DATA = [
   {
     "Key": "commercial-truck-insurance-NITIC-review-position-9",
     "ID": "CINET-NITIC-review",
-    "Href": "https://tivly.com/truckinfo-nitc?sr=hedge&kw1=TruckInfo-commercial-truck-insurance&kw2=company-review-NITIC",
+    "Href": "https://tivly.com/?sr=hedge&kw1=TruckInfo-commercial-truck-insurance&kw2=company-review-NITIC",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
@@ -138,7 +138,7 @@ window.LINK_DATA = [
   {
     "Key": "commercial-truck-insurance-biberk-review-position-11",
     "ID": "CINET-biberk-review",
-    "Href": "https://tivly.com/truckinfo-biberk?sr=hedgebb&kw1=TruckInfo-commercial-truck-insurance&kw2=company-review-biberk",
+    "Href": "https://tivly.com/?sr=hedgebb&kw1=TruckInfo-commercial-truck-insurance&kw2=company-review-biberk",
     "DataGATrack": "button-click,company-review,progressive",
     "Class": "button cta w-button"
   },
